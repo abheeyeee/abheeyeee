@@ -1,266 +1,131 @@
+# Hi there, I'm Abhinav Singh 👋
+
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=36BCF7FF&background=00000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🤖+AI%2FML+Enthusiast;🦀+Rust+%26+Web3;🧩+Competitive+Programmer" alt="Typing Animation"/>
+</div>
 
-<!-- Animated Background Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abhinav%20Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+---
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&background=00000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+Full+Stack+Developer;🦀+Rust+%26+Web3+Enthusiast;🧩+Competitive+Programmer;💡+Problem+Solver+%26+Innovator" alt="Typing Animation"/>
+## 🚀 About Me
 
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=abheeyeee&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+- 🎓 **Computer Science Student** passionate about technology
+- 🤖 I'm currently learning more about **AI/ML** and **Deep Learning**
+- 🦀 Building projects with **Rust** and **Web3** technologies
+- 🧩 Active on **LeetCode** and **Codeforces** for competitive programming
+- 💻 Exploring **blockchain development** and **smart contracts**
+- 📫 How to reach me: **abheeyeee@gmail.com**
+- 😄 Pronouns: **He/Him**
+
+---
+
+## 🛠️ Technologies & Tools
+
+**Languages:**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=Solidity&logoColor=white)
+
+**AI/ML & Data Science:**
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Web Development:**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+
+**Web3 & Blockchain:**
+![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white)
+![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=Web3.js&logoColor=white)
+
+**Databases & Tools:**
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abheeyeee&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abheeyeee&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abheeyeee&theme=dark&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🏆 Competitive Programming
+
+<div align="center">
+  
+**LeetCode:** [![LeetCode](https://img.shields.io/badge/LeetCode-abheeyeee-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/abheeyeee/)
+
+**Codeforces:** [![Codeforces](https://img.shields.io/badge/Codeforces-REXSY-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/REXSY)
 
 </div>
 
 ---
 
-<!-- About Section with Modern Cards -->
-<div align="center">
+## 🎯 I'm an Early 🐤
 
-## 🌟 About Me
-
-<table>
-<tr>
-<td width="50%">
-
-### 👨‍💻 Current Focus
-```rust
-fn main() {
-    let abhinav = Developer {
-        role: "CS Student",
-        focus: ["Web3", "Rust", "Competitive Programming"],
-        current_learning: ["Blockchain", "Smart Contracts", "DeFi"],
-        passion: "Building the decentralized future",
-    };
-    
-    println!("Welcome to my profile! 🚀");
-}
-```
-
-</td>
-<td width="50%">
-
-### 🎯 Goals & Interests
-- 🎓 **Computer Science Student**
-- 🦀 **Rust & Web3 Developer**
-- 🏗️ **Building DApps & Smart Contracts**
-- 🧩 **Competitive Programming Enthusiast**
-- 🔧 **Systems & Infrastructure**
-- 🌐 **Open Source Contributor**
-
-</td>
-</tr>
-</table>
-
-</div>
+🌞 **Morning**    ████████░░░░░░░░░░░░░░░░░░ 30.2%  
+🌆 **Daytime**    ███████████░░░░░░░░░░░░░░ 42.5%  
+🌃 **Evening**    ███░░░░░░░░░░░░░░░░░░░░░░ 12.8%  
+🌙 **Night**      ███░░░░░░░░░░░░░░░░░░░░░░ 14.5%  
 
 ---
 
-<!-- Tech Stack Section with Better Organization -->
-<div align="center">
+## 📊 This Week I Spent My Time On
 
-## 🛠️ Technology Arsenal
-
-### 🦀 Systems & Web3
-<p>
-  <img src="https://skillicons.dev/icons?i=rust,solidity,ethereum" alt="Rust, Solidity, Ethereum"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="48" height="48"/>
-  <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" width="48" height="48"/>
-</p>
-
-### 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,cpp,c" alt="Programming Languages"/>
-</p>
-
-### 🌐 Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,tailwind" alt="Web Technologies"/>
-</p>
-
-### 🗄️ Database & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,docker,kubernetes,aws,git" alt="Database & DevOps"/>
-</p>
-
-### 🔧 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,vim,linux,ubuntu,windows,github,figma" alt="Tools & Platforms"/>
-</p>
-
-</div>
-
----
-
-<!-- Competitive Programming Section -->
-<div align="center">
-
-## 🏆 Competitive Programming Journey
-
-<table>
-<tr>
-<td width="50%">
-
-### 🟡 LeetCode Progress
-[![LeetCode Stats](https://leetcode.card.workers.dev/abheeyeee?theme=nord&font=source_code_pro&extension=contest)](https://leetcode.com/abheeyeee/)
-
-</td>
-<td width="50%">
-
-### 🔵 Codeforces Journey
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=REXSY&theme=nord&force_username=true&border_color=404040)](https://codeforces.com/profile/REXSY)
-
-</td>
-</tr>
-</table>
-
-### 📊 Problem Solving Stats
-<img src="https://github-readme-stats.vercel.app/api?username=abheeyeee&show_icons=true&theme=nord&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9&ring_color=F85D7F" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abheeyeee&theme=nord&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=C9D1D9" alt="GitHub Streak" height="165"/>
-
-</div>
-
----
-
-<!-- GitHub Analytics -->
-<div align="center">
-
-## 📈 GitHub Analytics
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abheeyeee&layout=compact&theme=nord&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&langs_count=12" alt="Top Languages" height="200"/>
-
-### 🏆 Achievement Showcase
-<img src="https://github-profile-trophy.vercel.app/?username=abheeyeee&theme=nord&no-frame=true&no-bg=true&margin-w=4&row=2&column=6" alt="GitHub Trophies"/>
-
-### 📊 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abheeyeee&custom_title=Abhinav's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=C9D1D9&line=F85D7F&point=F8D866&area_color=F85D7F&title_color=F85D7F&area=true" alt="GitHub Activity Graph"/>
-
-</div>
-
----
-
-<!-- Projects Section -->
-<div align="center">
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🦀 Rust & Web3 Projects
-```toml
-[featured_projects]
-blockchain_wallet = "Rust-based crypto wallet"
-defi_protocol = "Smart contract development"
-rust_cli_tools = "System utilities in Rust"
-web3_dapp = "Decentralized application"
-```
-
-</td>
-<td width="50%">
-
-### 💻 Full Stack Applications
-```json
-{
-  "web_apps": [
-    "React + Node.js applications",
-    "Next.js full-stack projects",
-    "API development & integration",
-    "Database design & optimization"
-  ]
-}
-```
-
-</td>
-</tr>
-</table>
-
-<i>🔗 Check out my repositories below to see these projects in action!</i>
-
-</div>
-
----
-
-<!-- Skills Progress Bars -->
-<div align="center">
-
-## 💪 Skill Progression
-
+**💬 Programming Languages:**
 ```text
-Rust Programming    ████████████████████░░   85%
-Web3 Development    ██████████████████░░░░   75%
-JavaScript/TS       ████████████████████░░   90%
-Python              █████████████████████░   95%
-Problem Solving     ████████████████████░░   88%
-System Design       ███████████████░░░░░░░   70%
+Rust         8 hrs 45 mins   ████████████████░░░░░   65.2%
+Python       3 hrs 12 mins   ██████░░░░░░░░░░░░░░░   23.9%
+JavaScript   1 hr 28 mins    ███░░░░░░░░░░░░░░░░░░   10.9%
 ```
 
-</div>
+**🔥 Editors:**
+```text
+VS Code      11 hrs 30 mins  ██████████████████░░░   85.7%
+Vim          1 hr 55 mins    ████░░░░░░░░░░░░░░░░░   14.3%
+```
 
 ---
 
-<!-- Connect Section -->
+## 🤝 Connect with Me
+
 <div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhinav%20Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-singh-rexsy)
+[![Twitter](https://img.shields.io/badge/Twitter-@abheeyeee-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/abheeyeee)
+[![Gmail](https://img.shields.io/badge/Gmail-abheeyeee@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abheeyeee@gmail.com)
 
-## 🤝 Let's Connect & Collaborate!
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 💼 Professional
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/abhinav-singh-rexsy)
-
-</td>
-<td align="center" width="25%">
-
-### 🐦 Social  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://x.com/abheeyeee)
-
-</td>
-<td align="center" width="25%">
-
-### 📧 Contact
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:abheeyeee@gmail.com)
-
-</td>
-<td align="center" width="25%">
-
-### 🧩 Coding
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&labelColor=FFA116)](https://leetcode.com/u/abheeyeee/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white&labelColor=1F8ACB)](https://codeforces.com/profile/REXSY)
-
-</td>
-</tr>
-</table>
+**Profile Views:** ![Profile Views](https://komarev.com/ghpvc/?username=abheeyeee&color=blueviolet&style=flat-square)
 
 </div>
 
 ---
 
-<!-- Quote & Footer -->
 <div align="center">
+  
+**"Code is like humor. When you have to explain it, it's bad."** - Cory House
 
-### 💭 Philosophy
+*Last Updated on 26/07/2025 18:54:56 UTC*
 
-> *"The best way to predict the future is to invent it."* - Alan Kay
-
-**Building tomorrow's decentralized world, one commit at a time** 🌍
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
-
-**Made with ❤️ and lots of ☕ by Abhinav Singh**
-
-<!--
-Fun fact: This README was crafted with Rust-like precision and Web3 innovation in mind!
-Feel free to fork, star ⭐, and contribute to any of my projects!
--->
-
-</div>
-
-<!-- Snake Contribution Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/abheeyeee/abheeyeee/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </div>
