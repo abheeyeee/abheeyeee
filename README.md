@@ -1,103 +1,266 @@
-# Hi there, I'm Abhinav Singh 👋
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=CS+Student+%7C+Problem+Solver;Tech+Enthusiast+%7C+Open+Source+Lover;Always+Learning+New+Things!" alt="Typing SVG" />
-</div>
-
-## 🚀 About Me
-
-Welcome to my GitHub profile! I'm a **Computer Science student** with a passion for technology and problem-solving. I love exploring new technologies and building innovative solutions.
-
-- 🎓 **CS Major Student** 
-- 💻 **Tech Enthusiast** with expertise in systems and networking
-- 🧩 **Problem Solver** on LeetCode and Codeforces
-- 🔧 **Hardware & Software** specialist
-- 🌱 Currently learning and growing in the field of technology
-
-## 🛠️ Tech Stack & Skills
-
-### Languages
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-</p>
-
-### Web Development
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-</p>
-
-### Databases & Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
-</p>
-
-### Operating Systems & Hardware
-- 🐧 **Linux**, 🪟 **Windows**
-- 🔧 **Hardware**: SATA drives, RAM, GPUs, cooling systems
-- 🌐 **Networking**: Network connectivity, wireless technologies
-- 🔒 **Security**: Disaster recovery, file security
-
-## 📊 Competitive Programming
-
 <div align="center">
 
-### LeetCode Stats
-[![LeetCode Stats](https://leetcode.card.workers.dev/abheeyeee?theme=dark&font=baloo&extension=null)](https://leetcode.com/abheeyeee/)
+<!-- Animated Background Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abhinav%20Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-### Codeforces Profile
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=REXSY&theme=github_dark" alt="Codeforces Stats"/>
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&background=00000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+Full+Stack+Developer;🦀+Rust+%26+Web3+Enthusiast;🧩+Competitive+Programmer;💡+Problem+Solver+%26+Innovator" alt="Typing Animation"/>
 
-</div>
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abheeyeee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abheeyeee&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abheeyeee&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abheeyeee&theme=tokyonight&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
-## 📫 Let's Connect!
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-singh-rexsy)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/abheeyeee)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/abheeyeee/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/REXSY)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abheeyeee@gmail.com)
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=abheeyeee&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 
 </div>
-
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ---
 
+<!-- About Section with Modern Cards -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abheeyeee&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  
-  **"Code is like humor. When you have to explain it, it's bad."** - Cory House
-  
-  ⭐️ From **Abhinav Singh** | Made with ❤️
+
+## 🌟 About Me
+
+<table>
+<tr>
+<td width="50%">
+
+### 👨‍💻 Current Focus
+```rust
+fn main() {
+    let abhinav = Developer {
+        role: "CS Student",
+        focus: ["Web3", "Rust", "Competitive Programming"],
+        current_learning: ["Blockchain", "Smart Contracts", "DeFi"],
+        passion: "Building the decentralized future",
+    };
+    
+    println!("Welcome to my profile! 🚀");
+}
+```
+
+</td>
+<td width="50%">
+
+### 🎯 Goals & Interests
+- 🎓 **Computer Science Student**
+- 🦀 **Rust & Web3 Developer**
+- 🏗️ **Building DApps & Smart Contracts**
+- 🧩 **Competitive Programming Enthusiast**
+- 🔧 **Systems & Infrastructure**
+- 🌐 **Open Source Contributor**
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- Tech Stack Section with Better Organization -->
+<div align="center">
+
+## 🛠️ Technology Arsenal
+
+### 🦀 Systems & Web3
+<p>
+  <img src="https://skillicons.dev/icons?i=rust,solidity,ethereum" alt="Rust, Solidity, Ethereum"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="48" height="48"/>
+  <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" width="48" height="48"/>
+</p>
+
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,cpp,c" alt="Programming Languages"/>
+</p>
+
+### 🌐 Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,tailwind" alt="Web Technologies"/>
+</p>
+
+### 🗄️ Database & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,docker,kubernetes,aws,git" alt="Database & DevOps"/>
+</p>
+
+### 🔧 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,vim,linux,ubuntu,windows,github,figma" alt="Tools & Platforms"/>
+</p>
+
+</div>
+
+---
+
+<!-- Competitive Programming Section -->
+<div align="center">
+
+## 🏆 Competitive Programming Journey
+
+<table>
+<tr>
+<td width="50%">
+
+### 🟡 LeetCode Progress
+[![LeetCode Stats](https://leetcode.card.workers.dev/abheeyeee?theme=nord&font=source_code_pro&extension=contest)](https://leetcode.com/abheeyeee/)
+
+</td>
+<td width="50%">
+
+### 🔵 Codeforces Journey
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=REXSY&theme=nord&force_username=true&border_color=404040)](https://codeforces.com/profile/REXSY)
+
+</td>
+</tr>
+</table>
+
+### 📊 Problem Solving Stats
+<img src="https://github-readme-stats.vercel.app/api?username=abheeyeee&show_icons=true&theme=nord&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9&ring_color=F85D7F" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abheeyeee&theme=nord&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=C9D1D9" alt="GitHub Streak" height="165"/>
+
+</div>
+
+---
+
+<!-- GitHub Analytics -->
+<div align="center">
+
+## 📈 GitHub Analytics
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abheeyeee&layout=compact&theme=nord&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&langs_count=12" alt="Top Languages" height="200"/>
+
+### 🏆 Achievement Showcase
+<img src="https://github-profile-trophy.vercel.app/?username=abheeyeee&theme=nord&no-frame=true&no-bg=true&margin-w=4&row=2&column=6" alt="GitHub Trophies"/>
+
+### 📊 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abheeyeee&custom_title=Abhinav's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=C9D1D9&line=F85D7F&point=F8D866&area_color=F85D7F&title_color=F85D7F&area=true" alt="GitHub Activity Graph"/>
+
+</div>
+
+---
+
+<!-- Projects Section -->
+<div align="center">
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🦀 Rust & Web3 Projects
+```toml
+[featured_projects]
+blockchain_wallet = "Rust-based crypto wallet"
+defi_protocol = "Smart contract development"
+rust_cli_tools = "System utilities in Rust"
+web3_dapp = "Decentralized application"
+```
+
+</td>
+<td width="50%">
+
+### 💻 Full Stack Applications
+```json
+{
+  "web_apps": [
+    "React + Node.js applications",
+    "Next.js full-stack projects",
+    "API development & integration",
+    "Database design & optimization"
+  ]
+}
+```
+
+</td>
+</tr>
+</table>
+
+<i>🔗 Check out my repositories below to see these projects in action!</i>
+
+</div>
+
+---
+
+<!-- Skills Progress Bars -->
+<div align="center">
+
+## 💪 Skill Progression
+
+```text
+Rust Programming    ████████████████████░░   85%
+Web3 Development    ██████████████████░░░░   75%
+JavaScript/TS       ████████████████████░░   90%
+Python              █████████████████████░   95%
+Problem Solving     ████████████████████░░   88%
+System Design       ███████████████░░░░░░░   70%
+```
+
+</div>
+
+---
+
+<!-- Connect Section -->
+<div align="center">
+
+## 🤝 Let's Connect & Collaborate!
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 💼 Professional
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/abhinav-singh-rexsy)
+
+</td>
+<td align="center" width="25%">
+
+### 🐦 Social  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://x.com/abheeyeee)
+
+</td>
+<td align="center" width="25%">
+
+### 📧 Contact
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:abheeyeee@gmail.com)
+
+</td>
+<td align="center" width="25%">
+
+### 🧩 Coding
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&labelColor=FFA116)](https://leetcode.com/u/abheeyeee/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white&labelColor=1F8ACB)](https://codeforces.com/profile/REXSY)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- Quote & Footer -->
+<div align="center">
+
+### 💭 Philosophy
+
+> *"The best way to predict the future is to invent it."* - Alan Kay
+
+**Building tomorrow's decentralized world, one commit at a time** 🌍
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+
+**Made with ❤️ and lots of ☕ by Abhinav Singh**
+
+<!--
+Fun fact: This README was crafted with Rust-like precision and Web3 innovation in mind!
+Feel free to fork, star ⭐, and contribute to any of my projects!
+-->
+
+</div>
+
+<!-- Snake Contribution Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abheeyeee/abheeyeee/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </div>
