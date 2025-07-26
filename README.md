@@ -1,20 +1,26 @@
-# Hi there, I'm Abhinav Singh 👋
+
+# Hi there, I'm REXSY 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=36BCF7FF&background=00000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🤖+AI%2FML+Enthusiast;🦀+Rust+%26+Web3;🧩+Competitive+Programmer" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=36BCF7FF&background=00000000&center=true&vCenter=true&width=600&lines=🤖+AI%2FML+Enthusiast;🦀+Rust+%26+Web3;🧩+Competitive+Programmer" alt="Typing Animation"/>
 </div>
+
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 **Computer Science Student** passionate about technology
-- 🤖 I'm currently learning more about **AI/ML** and **Deep Learning**
-- 🦀 Building projects with **Rust** and **Web3** technologies
+- 🦀 Currently Learning **Rust** and **Web3** technologies
+- 🤖 **Data Science & AI/ML** Enthusiast
 - 🧩 Active on **LeetCode** and **Codeforces** for competitive programming
 - 💻 Exploring **blockchain development** and **smart contracts**
-- 📫 How to reach me: **abheeyeee@gmail.com**
-- 😄 Pronouns: **He/Him**
+- 📫 How to reach me: **Scroll Up**
+  
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+
 
 ---
 
@@ -22,19 +28,22 @@
 
 **Languages:**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=Solidity&logoColor=white)
 
 **AI/ML & Data Science:**
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-013243?style=flat-square&logo=Matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-4B8BBE?style=flat-square&logo=Seaborn&logoColor=white)
+
+
 
 **Web Development:**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)
@@ -97,13 +106,13 @@
 ```text
 Rust         8 hrs 45 mins   ████████████████░░░░░   65.2%
 Python       3 hrs 12 mins   ██████░░░░░░░░░░░░░░░   23.9%
-JavaScript   1 hr 28 mins    ███░░░░░░░░░░░░░░░░░░   10.9%
+C++          1 hr 28 mins    ███░░░░░░░░░░░░░░░░░░   10.9%
 ```
 
 **🔥 Editors:**
 ```text
 VS Code      11 hrs 30 mins  ██████████████████░░░   85.7%
-Vim          1 hr 55 mins    ████░░░░░░░░░░░░░░░░░   14.3%
+Zed          1 hr 55 mins    ████░░░░░░░░░░░░░░░░░   14.3%
 ```
 
 ---
@@ -120,6 +129,7 @@ Vim          1 hr 55 mins    ████░░░░░░░░░░░░░
 
 </div>
 
+
 ---
 
 <div align="center">
@@ -129,3 +139,4 @@ Vim          1 hr 55 mins    ████░░░░░░░░░░░░░
 *Last Updated on 26/07/2025 18:54:56 UTC*
 
 </div>
+
