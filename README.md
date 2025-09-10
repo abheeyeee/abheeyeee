@@ -123,7 +123,7 @@ Zed          1 hr 55 mins    ████░░░░░░░░░░░░░
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhinav%20Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-singh-rexsy)
 [![Twitter](https://img.shields.io/badge/Twitter-@abheeyeee-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/abheeyeee)
-[![Gmail](https://img.shields.io/badge/Gmail-abheeyeee@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinavsingh.thedev@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-abhinavsingh.thedev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinavsingh.thedev@gmail.com)
 
 **Profile Views:** ![Profile Views](https://komarev.com/ghpvc/?username=abheeyeee&color=blueviolet&style=flat-square)
 
